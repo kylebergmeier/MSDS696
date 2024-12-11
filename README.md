@@ -1,5 +1,6 @@
 # MSDS696
-In this project I developed a model to preoject the number of wins a college football team had in 2022. Data was collected from a Kaggle source that had a comprehensive list of the statistics the teams produced over the course of the season. The features were then run through many tests to determine which of them would do the best job in prejecting the win total.
+In this project I developed a model to preoject the number of wins a college football team had in 2022. Data was collected from a Kaggle source that had a comprehensive list of the statistics the teams produced over the course of the season. The features were then run through many tests to determine which of them would do the best job in projecting the win total.
+
 ![Def_Heatmap](https://github.com/user-attachments/assets/f0db8f63-ff25-4dbc-b437-6b4e02a80fbf)
 ![Off_Heatmap](https://github.com/user-attachments/assets/3e3d0338-e346-452b-8408-360e18c2e307)
 
